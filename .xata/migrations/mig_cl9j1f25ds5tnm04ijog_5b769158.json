@@ -1,0 +1,16 @@
+{
+  "id": "mig_cl9j1f25ds5tnm04ijog",
+  "parentID": "mig_cl9j1aq5ds5tnm04ijn0",
+  "checksum": "1:5b769158cc2343fe2eeb966415cc589dcd64f4e75b92cb17d223ff6824bbf138",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "diagnoze",
+          "type": "string"
+        },
+        "table": "Operacijos"
+      }
+    }
+  ]
+}

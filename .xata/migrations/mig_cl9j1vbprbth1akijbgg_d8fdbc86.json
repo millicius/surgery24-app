@@ -1,0 +1,17 @@
+{
+  "id": "mig_cl9j1vbprbth1akijbgg",
+  "parentID": "mig_cl9j1ri5ds5tnm04ijtg",
+  "checksum": "1:d8fdbc86d73468a38cf8020525d1f088140724454ddf016314f97a6cdb1e1bb9",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "protezas",
+          "type": "bool",
+          "defaultValue": "false"
+        },
+        "table": "Operacijos"
+      }
+    }
+  ]
+}

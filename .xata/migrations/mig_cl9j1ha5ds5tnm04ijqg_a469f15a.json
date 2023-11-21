@@ -1,0 +1,16 @@
+{
+  "id": "mig_cl9j1ha5ds5tnm04ijqg",
+  "parentID": "mig_cl9j1f25ds5tnm04ijog",
+  "checksum": "1:a469f15a0539eca7261fc0a902b77efab90b03cd010c3ccd6da67ad9844a5732",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "operacija",
+          "type": "string"
+        },
+        "table": "Operacijos"
+      }
+    }
+  ]
+}

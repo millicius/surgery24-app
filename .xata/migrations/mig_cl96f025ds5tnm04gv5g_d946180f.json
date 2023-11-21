@@ -1,0 +1,18 @@
+{
+  "id": "mig_cl96f025ds5tnm04gv5g",
+  "parentID": "mig_cl96et3prbth1akihl00",
+  "checksum": "1:d946180fe8da8479e9cb5e357076c5012723f59a1197fd3c07fcd94554b9e0c7",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "tikas",
+          "type": "bool",
+          "notNull": true,
+          "defaultValue": "false"
+        },
+        "table": "name"
+      }
+    }
+  ]
+}

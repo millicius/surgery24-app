@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Audrius-s-workspace-5hrrt4.eu-west-1.xata.sh/db/xata-derwa-app",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "esm"
+  }
+}

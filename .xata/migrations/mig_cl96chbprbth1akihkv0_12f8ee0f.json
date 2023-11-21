@@ -1,0 +1,13 @@
+{
+  "id": "mig_cl96chbprbth1akihkv0",
+  "parentID": "mig_cl961dq5ds5tnm04gseg",
+  "checksum": "1:12f8ee0fc814bf2bba3424cf2eb196ddf05fc69d3b6066a0c3696c940a1738c5",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "tikas",
+        "table": "name"
+      }
+    }
+  ]
+}

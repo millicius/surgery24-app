@@ -1,0 +1,17 @@
+{
+  "id": "mig_cl9j1pjprbth1akijb9g",
+  "parentID": "mig_cl9j1ha5ds5tnm04ijqg",
+  "checksum": "1:23982261485f944c6abb718c6f1162638de9379af83e3a87a7a7e1d17850fdbc",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "planas",
+          "type": "bool",
+          "defaultValue": "false"
+        },
+        "table": "Operacijos"
+      }
+    }
+  ]
+}
